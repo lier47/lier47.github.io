@@ -1,0 +1,38 @@
+.you {
+    text-indent: -999em;
+    text-decoration: none;
+     position: absolute;
+    right: 0;
+    top: 0;
+    display: block;
+    height: 50px;
+    width: 50px;
+    border-radius: 40%;
+}
+.container-fluid {
+    background-color: #29293d;
+}
+.nav-item:hover {
+    background:black;
+}
+.shoes {
+  float:center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+    }
+.bi bi-heart{}
+.bi bi-chat{}
+.bi bi-share{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.bi bi-share:hover{
+    background: black;
+}
+.fas.fa-home {
+    color: blue;
+    font-size: 20px;
+}
